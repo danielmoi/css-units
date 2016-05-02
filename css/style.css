@@ -271,3 +271,17 @@ span {
 .header__logo--image {
   vertical-align: middle;
 }
+
+.btn {
+  font-size: 1em;
+  border-radius: 10px;
+  padding: 10px;
+  cursor: pointer;
+  border: 1px solid gray;
+  color: #fff;
+  background: gray;
+}
+
+.btn:hover {
+  text-decoration: none;
+}
